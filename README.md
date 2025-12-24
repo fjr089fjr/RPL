@@ -1,2 +1,0 @@
-# RPL
-ingin jadi developer
